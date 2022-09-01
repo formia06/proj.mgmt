@@ -1,0 +1,209 @@
+/* COLOR PALLET */
+/* #1A374D
+   #406882
+  #6998AB
+  #B1D0E0 */
+
+body {
+
+}
+
+/* Navigation Section */
+
+#navigation-bar{
+  position: fixed;
+  height: 100%;
+  z-index: 1;
+  width: 4.5rem;
+  background-color: #F9F7F7;
+  color: #398AB9;
+}
+
+.navbar-icon {
+  height: 2rem;
+}
+
+/* Webpage Body */
+
+#page-body {
+  padding-left: 4.5rem;
+  background-color: #F9F7F7;
+  text-align: left;
+}
+
+
+
+/* Title section */
+
+#title {
+  background-color: #398AB9;
+  color: #fff;
+  text-align: left;
+  padding: 2% 5% 0.1rem;
+}
+
+.logo-container {
+  color: #fff;
+  padding-left: 90%;
+}
+
+/* Filters Section */
+
+#filters {
+  padding: 2% 5% 0.1rem;
+}
+
+#filters .btn {
+  background-color: #398AB9;
+}
+
+/* Application Section */
+
+
+
+#application {
+  position: relative;
+  padding: 2% 5% 0.1rem;
+  text-align: left;
+  background-color: #F9F7F7;
+}
+
+/* Welcome page */
+
+#welcome-body {
+  padding: 5% 5% 0.1rem;
+
+}
+
+#welcome-body h1 {
+  font-size: 4rem;
+  text-align: left;
+  font-weight: bold;
+
+}
+
+.welcome-page-header {
+  padding:  7%;
+}
+.welcome-page-header-img {
+  margin: 2% 10% 20% 2%;
+  height:  60%;
+}
+
+
+
+#welcome-features {
+  padding: 10% 5% 7%;
+  background-color: #fff;
+  text-align: center;
+}
+
+.features-item  {
+    padding: 0 5%;
+    font-size: 1.5rem;
+
+}
+
+.features-img {
+  font-size: 7rem;
+  padding: 30px;
+
+}
+
+#welcome-features h3 {
+  font-size: 2rem;
+}
+
+#welcome-features p {
+  font-size: 1.25rem;
+}
+
+
+/* Gnatt Chart */
+#gnatt{
+  margin: 3% 0 5% 3%;
+}
+
+#gnatt h4 {
+  text-align: left;
+  font-size: 1.4rem;
+}
+#gnatt h5 {
+  text-align: center;
+  font-size: 1.25rem;
+}
+#gnatt h6 {
+  text-align: right;
+  font-size: 1.15rem;
+}
+
+
+
+.gnatt-chart {
+  padding: 2% 5% 0.1rem;
+
+}
+
+.gnatt-chart-header {
+  background-color: #406882;
+  font-size: 1.5REM;
+  font-weight: bold;
+  text-align: center;
+  color: #fff;
+}
+
+.gnatt-chart-col-task {
+  width: 15REM;
+  border: solid 1px;
+}
+.gnatt-chart-col {
+  border: solid 1px;
+  width: 10REM;
+}
+
+.gantt-chart-fill {
+  background-color: blue;
+}
+
+/* ERP Section */
+
+.erp-box {
+  margin: 10px;
+  margin-right: 2%;
+
+  height: 100px;
+  background-color: #B1D0E0;
+}
+
+
+
+.accounting-table {
+  margin-bottom: 4%
+}
+/* Footer section */
+
+#footer {
+  padding: 1%;
+}
+
+
+.welcome-page-footer {
+  height: 5%
+}
+
+
+.erp-box {
+
+
+}
+
+.erp-box-text {
+  text-align: right;
+  font-size: 1.25rem;
+}
+
+.erp-page-box-img {
+  font-size: 3rem;
+  text-align: justify;
+  margin-top: 20px;
+}
